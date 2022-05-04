@@ -1,2 +1,2 @@
 # res_app
-Repogitory of apps
+Repository of apps
